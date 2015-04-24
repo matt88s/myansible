@@ -1,0 +1,4 @@
+[local]
+puppet.rhel.com
+[test]
+agent.rhel.com
